@@ -1,0 +1,22 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "a project management applications with role based access.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "project",
+    "management",
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Arshpreet Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
